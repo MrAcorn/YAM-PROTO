@@ -1,0 +1,16 @@
+WASD to move
+space to jump
+hold shift to sprint
+space + shift to fly
+ctrl + shift to fast fall
+ctrl to halt all cardinal momentum
+
+Modernist:
+(ctrl does count as moving)
+Combat
+Passive - Phased/Traveler: Sprinting costs less stamina. Exhausted state does not slow. When an enemy has 3 Phase stacks, consume 3 of the stacks and apply water or metal elements (alternating).
+(Left Click) Weapon - Modern Ghost: Fires a silenced pistol, the hit target gains a Phase stack.
+
+(Q) Ability 1 - Smoke/Toss: Toss a smoke canister at target enemy that makes modernist invisible (refreshing every 1 second)  and 10% move speed and lowers enemies vision and movement speed by 15% inside the smoke. gives 1 stack of Phase. If used while not moving you become invisible and make no ability sounds for 5 seconds. Taking or dealing damages breaks the effect.
+
+(E) Ability 2 - Sword/Block: A short range lunge that deals damage, gives 2 Phase stacks, and resets if it kills, has whiff recovery, grants 50%movement speed for 0.5s after, if used while not moving gain a shield ( based on stun shield) for 0.75s and change Phase element instead.
